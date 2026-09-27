@@ -68,8 +68,7 @@ quotes = [
 	"""very hot im wanking at my desk as we speak""<br/>-Lelop",
 	"""Help me I'm locked in the basement forced to write death quotes""<br/>-No one, don't worry about it."
 	"""Smacking my desk just restarted my pc""<br/>-Lelop",
-	"""You're my favourite yellow crayon, John""<br/>-Snubby",
-	"""I LOVE Israel""<br/>-Perondas"
+	"""You're my favourite yellow crayon, John""<br/>-Snubby"
 ];
 
 ["<t color='#ffffff' size='.8'>"+(selectRandom quotes)+"</t>",-1,-1,10,1,0,789] spawn BIS_fnc_dynamicText;
